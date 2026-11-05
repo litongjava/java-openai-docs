@@ -1,0 +1,75 @@
+[
+  {
+    "text": "java-openai",
+    "items": [
+      {
+        "text": "概览",
+        "link": "/"
+      },
+      {
+        "text": "简介",
+        "link": "/01"
+      },
+      {
+        "text": "流式生成",
+        "link": "/02"
+      },
+      {
+        "text": "图片多模态输入",
+        "link": "/03"
+      },
+      {
+        "text": "Google Gemini接入",
+        "link": "/04"
+      },
+      {
+        "text": "google Vertex AI 接入",
+        "link": "/05"
+      },
+      {
+        "text": "模型查询",
+        "link": "/06"
+      },
+      {
+        "text": "按业务档位选模型",
+        "link": "/07"
+      },
+      {
+        "text": "OpenAI、Claude 与 DeepSeek 联网搜索",
+        "link": "/08"
+      },
+      {
+        "text": "为单次生成配置独立传输策略",
+        "link": "/09"
+      },
+      {
+        "text": "GiteeClient 文档解析与图片 OCR",
+        "link": "/10"
+      },
+      {
+        "text": "WhisperClient 语音识别",
+        "link": "/11"
+      },
+      {
+        "text": "Perplexity API",
+        "link": "/12"
+      },
+      {
+        "text": "SupadataClient 获取视频字幕",
+        "link": "/13"
+      },
+      {
+        "text": "BailianTTSClient 语音合成",
+        "link": "/14"
+      },
+      {
+        "text": "UniChatClient 与调用方 HTTP 客户端",
+        "link": "/unichat-owned-client"
+      },
+      {
+        "text": "UniChatClient 原始 HTTP 传输",
+        "link": "/unichat-raw-transport"
+      }
+    ]
+  }
+]
